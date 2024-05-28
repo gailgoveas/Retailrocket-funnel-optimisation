@@ -36,6 +36,9 @@ The dataset includes user events such as page views, adding items to the cart, a
 - `itemid`: Identifier for the item
 - `transactionid`: Identifier for the transaction (if applicable)
 
+The dataset can be downloaded from Kaggle using the following link:
+[Retail Rocket eCommerce Dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
+
 ### Analysis Steps
 1. **Data Preparation**: Load and clean the dataset, convert timestamps to datetime format, and handle missing values.
 2. **Current Funnel Analysis**: Calculate the number of unique users at each stage, conversion rates, and drop-off rates. Visualize the current funnel.
